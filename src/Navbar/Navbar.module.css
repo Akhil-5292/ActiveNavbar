@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.wrapper{
+    border:1px solid;
+    display: flex;
+    justify-content: space-around;
+    text-decoration: none;
+    background-color: rgb(red, rgba(0, 66, 128, 0.611), blue);
+}
+
+.link{
+    display: flex;
+    justify-content: space-between;
+    width: 50rem;
+    font-weight: 500;
+}
+ 
+
